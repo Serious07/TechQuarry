@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TechQuarry",
+  "name": "TechReborn Quarry addon",
+  "description": "Quarry addon for TechReborn mod.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Serious07"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
